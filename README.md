@@ -3,7 +3,8 @@
 
 AI 전문가를 위한 Python으로 시작하는 데이터 마케팅 (Data Marketing) 실전 가이드
 
-![https://github.com/user-attachments/assets/-](https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FUHfjKKMErzjbzMnl7euS%252FAI%2520Master-%25E1%2584%2583%25E1%2585%25A6%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2590%25E1%2585%25A5%25E1%2584%2586%25E1%2585%25A1%25E1%2584%258F%25E1%2585%25A6%25E1%2584%2590%25E1%2585%25B5%25E1%2586%25BC%2520%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A5%25E1%2586%25A8%2520with%2520Python.png%3Falt%3Dmedia%26token%3Da22f3bcc-88ab-4b0c-891c-295b754fb833&width=300&dpr=4&quality=100&sign=ab86ab02&sv=2)
+<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FUHfjKKMErzjbzMnl7euS%252FAI%2520Master-%25E1%2584%2583%25E1%2585%25A6%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2590%25E1%2585%25A5%25E1%2584%2586%25E1%2585%25A1%25E1%2584%258F%25E1%2585%25A6%25E1%2584%2590%25E1%2585%25B5%25E1%2586%25BC%2520%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A5%25E1%2586%25A8%2520with%2520Python.png%3Falt%3Dmedia%26token%3Da22f3bcc-88ab-4b0c-891c-295b754fb833&width=300&dpr=4&quality=100&sign=ab86ab02&sv=2" width="500" height="707"/>
+
 
 ## 책 소개
 
